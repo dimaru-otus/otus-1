@@ -11,6 +11,14 @@
 		0A49DE5C2C8E243000382201 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A49DE5B2C8E243000382201 /* ContentView.swift */; };
 		0A49DE5E2C8E243200382201 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A49DE5D2C8E243200382201 /* Assets.xcassets */; };
 		0A49DE612C8E243200382201 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A49DE602C8E243200382201 /* Preview Assets.xcassets */; };
+		0A49DE682C8EC8C900382201 /* FirstTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A49DE672C8EC8C900382201 /* FirstTabView.swift */; };
+		0A49DE6A2C8EC8DB00382201 /* SecondTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A49DE692C8EC8DB00382201 /* SecondTabView.swift */; };
+		0A49DE6C2C8EC91900382201 /* ThirdTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A49DE6B2C8EC91900382201 /* ThirdTabView.swift */; };
+		0A49DE6E2C8F3CF100382201 /* MarvellHero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A49DE6D2C8F3CF100382201 /* MarvellHero.swift */; };
+		0A49DE702C8F3D0C00382201 /* MarvellHero.json in Resources */ = {isa = PBXBuildFile; fileRef = 0A49DE6F2C8F3D0C00382201 /* MarvellHero.json */; };
+		0A49DE722C8F41D400382201 /* HeroDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A49DE712C8F41D400382201 /* HeroDetailView.swift */; };
+		0A49DE742C8F7A8500382201 /* SwiftSpinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A49DE732C8F7A8500382201 /* SwiftSpinner.swift */; };
+		0A49DE782C8F7BAC00382201 /* SpinnerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A49DE772C8F7BAC00382201 /* SpinnerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +27,14 @@
 		0A49DE5B2C8E243000382201 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0A49DE5D2C8E243200382201 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A49DE602C8E243200382201 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0A49DE672C8EC8C900382201 /* FirstTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTabView.swift; sourceTree = "<group>"; };
+		0A49DE692C8EC8DB00382201 /* SecondTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondTabView.swift; sourceTree = "<group>"; };
+		0A49DE6B2C8EC91900382201 /* ThirdTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdTabView.swift; sourceTree = "<group>"; };
+		0A49DE6D2C8F3CF100382201 /* MarvellHero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarvellHero.swift; sourceTree = "<group>"; };
+		0A49DE6F2C8F3D0C00382201 /* MarvellHero.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MarvellHero.json; sourceTree = "<group>"; };
+		0A49DE712C8F41D400382201 /* HeroDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroDetailView.swift; sourceTree = "<group>"; };
+		0A49DE732C8F7A8500382201 /* SwiftSpinner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftSpinner.swift; sourceTree = "<group>"; };
+		0A49DE772C8F7BAC00382201 /* SpinnerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinnerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +69,14 @@
 			children = (
 				0A49DE592C8E243000382201 /* otus_hw_1App.swift */,
 				0A49DE5B2C8E243000382201 /* ContentView.swift */,
+				0A49DE672C8EC8C900382201 /* FirstTabView.swift */,
+				0A49DE692C8EC8DB00382201 /* SecondTabView.swift */,
+				0A49DE712C8F41D400382201 /* HeroDetailView.swift */,
+				0A49DE6D2C8F3CF100382201 /* MarvellHero.swift */,
+				0A49DE6B2C8EC91900382201 /* ThirdTabView.swift */,
+				0A49DE732C8F7A8500382201 /* SwiftSpinner.swift */,
+				0A49DE772C8F7BAC00382201 /* SpinnerView.swift */,
+				0A49DE6F2C8F3D0C00382201 /* MarvellHero.json */,
 				0A49DE5D2C8E243200382201 /* Assets.xcassets */,
 				0A49DE5F2C8E243200382201 /* Preview Content */,
 			);
@@ -126,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A49DE612C8E243200382201 /* Preview Assets.xcassets in Resources */,
+				0A49DE702C8F3D0C00382201 /* MarvellHero.json in Resources */,
 				0A49DE5E2C8E243200382201 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +162,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A49DE6A2C8EC8DB00382201 /* SecondTabView.swift in Sources */,
+				0A49DE782C8F7BAC00382201 /* SpinnerView.swift in Sources */,
+				0A49DE742C8F7A8500382201 /* SwiftSpinner.swift in Sources */,
+				0A49DE6C2C8EC91900382201 /* ThirdTabView.swift in Sources */,
+				0A49DE722C8F41D400382201 /* HeroDetailView.swift in Sources */,
 				0A49DE5C2C8E243000382201 /* ContentView.swift in Sources */,
+				0A49DE6E2C8F3CF100382201 /* MarvellHero.swift in Sources */,
+				0A49DE682C8EC8C900382201 /* FirstTabView.swift in Sources */,
 				0A49DE5A2C8E243000382201 /* otus_hw_1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -280,6 +312,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -309,6 +342,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

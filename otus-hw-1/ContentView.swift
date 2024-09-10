@@ -7,15 +7,22 @@
 
 import SwiftUI
 
+enum TabList: String {
+    case first, second, third
+}
+extension TabList: CustomStringConvertible {
+    var description: String { self.rawValue.capitalized }
+}
+
+
 struct ContentView: View {
+    @State private var currentTab = TabList.first
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        TabView(selection: $currentTab) {
+            FirstTabView(currentTab: $currentTab)
+            SecondTabView()
+            ThirdTabView()
         }
-        .padding()
     }
 }
 

@@ -1,0 +1,146 @@
+[
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1rUF0Ce47WqKPwvugGrPZ4JwDm_DCilFpzZw00fzdXFJCaSSYASyD9m0&s=0",
+    "name": "Thor",
+    "text": "Thor Odinson is a superhero appearing in American comic books published by Marvel Comics. Created by artist Jack Kirby, writer Stan Lee, and scripter Larry Lieber, the character first appeared in Journey into Mystery #83 and first received his own title with Thor #126. ",
+    "wiki": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54VlM93EOqAxWEuFEj02yv80g-6Da6qZKdS0kwMfbO4ryxPZVk6jA_PA&s=0",
+    "name": "Iron Man",
+    "text": "Iron Man is a superhero appearing in American comic books published by Marvel Comics. Co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and ... ",
+    "wiki": "https://en.wikipedia.org/wiki/Iron_Man"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWDKQH6fJX7w-Yqxqmjlb-Um4J5NhztvUS8nHnnw1uQFQSzUwoWTgcA&s=0",
+    "name": "Spider-Man",
+    "text": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books. ",
+    "wiki": "https://en.wikipedia.org/wiki/Spider-Man"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7TQSvrWb2IbHVSy2AEQwVlG1zjU1phjfnMNTgX7uNxJMzKDY7b04hA&s=0",
+    "name": "Captain America",
+    "text": "Captain America is a superhero created by Joe Simon and Jack Kirby who appears in American comic books published by Marvel Comics. The character first appeared in Captain America Comics #1, published on December 20, 1940, by Timely Comics, a corporate predecessor to Marvel. ",
+    "wiki": "https://en.wikipedia.org/wiki/Captain_America"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVkBJfGNX_024IrcOLVbz39B8AsM6Lz8Ewn-0rWPSLkiRfOQR23gF5Ew&s=0",
+    "name": "Wolverine",
+    "text": "James Howlett, known as Logan and by his codename Wolverine, is a fictional character who originated as a main protagonist and central figure of 20th Century Fox's X-Men film series, having appeared in nine films since his introduction in X-Men, including both ensemble and solo films. ",
+    "wiki": "https://en.wikipedia.org/wiki/Logan_(film_character)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZ1A2YrLF0Oo8xSF9C2HITBzElRPZJJiAUB9V5k3bHbnUFqWNmpb4NiE&s=0",
+    "name": "Daredevil",
+    "text": "Daredevil is a superhero appearing in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Bill Everett, with an unspecified amount of input from Jack Kirby, the character first appeared in Daredevil #1. ",
+    "wiki": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlf_YFmIQEYMhy4LQXynEDJuZRXEBLq8QLmxzghJsk1fU52VNc0PYtmZg&s=0",
+    "name": "Black Panther",
+    "text": "Black Panther is a character appearing in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist-coplotter Jack Kirby, the character first appeared in Fantastic Four #52 in the Silver Age of Comic Books. ",
+    "wiki": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Dp8n757IOdv_0ACxKryCijOSJgcVVxseaY4dPPmRFgha952UQeZAtKM&s=0",
+    "name": "Doctor Strange",
+    "text": "Dr. Stephen Vincent Strange is a character appearing in American comic books published by Marvel Comics. Created by Steve Ditko, the character first appeared in Strange Tales #110. Doctor Strange serves as the Sorcerer Supreme, the primary protector of Earth against magical and mystical threats. ",
+    "wiki": "https://en.wikipedia.org/wiki/Doctor_Strange"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4V2WclMnoGXZFDeiEOkIkuOIMXbRL6z2fCkTIcRdRWGvueGfBYfuhoko&s=0",
+    "name": "Black Widow",
+    "text": "Black Widow is a character appearing in American comic books published by Marvel Comics. Created by editor and plotter Stan Lee, scripter Don Rico, and artist Don Heck, the character debuted as an enemy of Iron Man in Tales of Suspense #52. ",
+    "wiki": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnkPC_cR5iRkp7norLOzNX3AJYtFLcoSAgHdgNVqyUO4hf2Zcfg3yNoLg&s=0",
+    "name": "Deadpool",
+    "text": "Deadpool is a character appearing in American comic books published by Marvel Comics. Created by Fabian Nicieza and Rob Liefeld, the character first appeared in New Mutants #98. ",
+    "wiki": "https://en.wikipedia.org/wiki/Deadpool"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzB5kwety1DBjlP5_VGqoab3tGw0-VUV8fQh1MaZWOQMgRMWjFCLFs7Q&s=0",
+    "name": "Thing",
+    "text": "The Thing is a superhero appearing in American comic books published by Marvel Comics. He is a founding member of the Fantastic Four. The Thing was created by writer-editor Stan Lee and artist Jack Kirby, and he first appeared in The Fantastic Four #1. ",
+    "wiki": "https://en.wikipedia.org/wiki/Ben_Grimm"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoakRyDrq4SXgnJttpKvOeXG_v9848IJKYsbR3_dq751UZSJo3ohZv2Pg&s=0",
+    "name": "Scarlet Witch",
+    "text": "The Scarlet Witch or Wanda Maximoff is a fictional character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The X-Men #4 in the Silver Age of Comic Books. ",
+    "wiki": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFoKy1IYdLosEiqDPfjjjJfoFwRupHf99V-0wjTOnQV07_vlKZR1TRNA&s=0",
+    "name": "Punisher",
+    "text": "The Punisher is an antihero appearing in American comic books published by Marvel Comics. The character was created by writer Gerry Conway and artists John Romita Sr. and Ross Andru. ",
+    "wiki": "https://en.wikipedia.org/wiki/Punisher"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9g10mMoS4jZBa_P3LuYKoAa0DA5ENIeZYMeOFJEKsDIHvY_JRGjTROFY&s=0",
+    "name": "Silver Surfer",
+    "text": "The Silver Surfer is a fictional character appearing in American comic books published by Marvel Comics. The character also appears in a number of movies, television, and video game adaptations. The character was created by Jack Kirby and first appeared in the comic book Fantastic Four #48, published in 1966. ",
+    "wiki": "https://en.wikipedia.org/wiki/Silver_Surfer"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2keXVjKdHjXYS9mS3gIthk_U3qILashHNXRz-B0hZ6Y_w0LcVm2YA6A&s=0",
+    "name": "Star-Lord",
+    "text": "Star-Lord is a superhero appearing in American comic books published by Marvel Comics. Created by Steve Englehart and Steve Gan, the character first appeared in Marvel Preview #4. The son of human Meredith Quill and Spartoi J'son, Peter Quill assumes the mantle of Star-Lord, an interplanetary policeman. ",
+    "wiki": "https://en.wikipedia.org/wiki/Star-Lord"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvvCCcCGtqZZ-oksLUmUipUwGOitSslypqLV782DW1-nm848cnnrS-yc&s=0",
+    "name": "Ant-Man",
+    "text": "Ant-Man (Scott Lang) is a fictional character appearing in American comic books published by Marvel Comics. Created by David Michelinie, Bob Layton and John Byrne, Scott Lang first appeared in The Avengers #181 and in Marvel Premiere #47 as the second superhero character to use the Ant-Man name in the Marvel Universe. ",
+    "wiki": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98z_FvA_DEI1WUFuJfuosmmwgfeItmtxwTPx1StsYYhNehGCPqsu9e_o&s=0",
+    "name": "Bucky Barnes",
+    "text": "James Buchanan \"Bucky\" Barnes is a character appearing in American comic books published by Marvel Comics. Originally introduced as a sidekick to Captain America, the character was created by Joe Simon and Jack Kirby and first appeared in Captain America Comics #1. ",
+    "wiki": "https://en.wikipedia.org/wiki/Bucky_Barnes"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDJsScIfWAjq1B6Xg94i-FAti9s8GCZNfZjv6p5X0sB7ImE_prW82EQ&s=0",
+    "name": "Nick Fury",
+    "text": "Nicholas Joseph Fury is a fictional character portrayed by Samuel L. Jackson in the Marvel Cinematic Universe media franchise, based on the Marvel Comics character of the same name. ",
+    "wiki": "https://en.wikipedia.org/wiki/Nick_Fury_(Marvel_Cinematic_Universe)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kcAORKY-PZUmLkfi8VtvF_zxia3i2AyZ8uWiNh5PmSvdbi8ByaZrZ50&s=0",
+    "name": "Sentry",
+    "text": "Sentry is a superhero appearing in American comic books published by Marvel Comics. Created by Paul Jenkins and Jae Lee, with uncredited conceptual contributions by Rick Veitch, the character first appeared in The Sentry #1. ",
+    "wiki": "https://en.wikipedia.org/wiki/Sentry_(Robert_Reynolds)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSliM_ZuvoV8Cit_UqLznAMnKv0blQOT6D8omwzNiKNHXe3fDcpwEqkEYk&s=0",
+    "name": "Storm",
+    "text": "Storm is a superhero appearing in American comic books published by Marvel Comics. Created by writer Len Wein and artist Dave Cockrum, the character first appeared in Giant-Size X-Men #1. ",
+    "wiki": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxl-gFOJPDCezgZ1X5eZ6DUYkoL64pJvEzpiiE4EOO5gPYYXXUStyIn3o&s=0",
+    "name": "Blue Marvel",
+    "text": "Blue Marvel is a superhero appearing in American comic books published by Marvel Comics. Created by Kevin Grevioux, who originally conceived the character as a child, and Mat Brome, the character first appeared in Adam: Legend of the Blue Marvel #1. ",
+    "wiki": "https://en.wikipedia.org/wiki/Blue_Marvel"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHGiERn16plvqh4KjTsJASb8GzRnAk4ynnLh4jQIw7q450G4xbLopEicA&s=0",
+    "name": "Captain Marvel",
+    "text": "Carol Susan Jane Danvers is a character appearing in American comic books published by Marvel Comics. Created by writer Roy Thomas and artist Gene Colan, the character first appeared as an officer in the United States Air Force and a colleague of the Kree superhero Mar-Vell in Marvel Super-Heroes #13. ",
+    "wiki": "https://en.wikipedia.org/wiki/Carol_Danvers"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHvWBoyksDWV7ZwyptcGCkL5oh0W249Gl1NF7b97JDpVHoGJOAnDuRg&s=0",
+    "name": "Hawkeye",
+    "text": "Hawkeye is a character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Don Heck, the character first appeared as a supervillain in Tales of Suspense #57 and later joined the Avengers as a superhero in The Avengers #16. ",
+    "wiki": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAszpl790e6s6_ircF1QVoJs2NIUVKuZ_Vypyl9fGjdVMHbtnqqoYQ0vo&s=0",
+    "name": "Human Torch",
+    "text": "The Human Torch is a superhero appearing in American comic books published by Marvel Comics. The character is a founding member of the Fantastic Four. ",
+    "wiki": "https://en.wikipedia.org/wiki/Human_Torch"
+  }
+]
