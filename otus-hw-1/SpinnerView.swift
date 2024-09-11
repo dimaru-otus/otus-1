@@ -13,17 +13,15 @@ struct SpinnerView: UIViewRepresentable {
     typealias UIViewType = SwiftSpinner
 
     func makeUIView(context: Context) -> SwiftSpinner {
-//        SwiftSpinner.addCircularProgress(to: view, title: "Searching\nfor Trident", verticalSizeClass: UITraitCollection.verticalSizeClass)
         let width = 200
         let spinner = SwiftSpinner(frame: CGRect(x: 0, y: 0, width: width, height: width))
         spinner.showBlurBackground = false
-        spinner.titleLabel.textColor = .black
+        spinner.titleLabel.textColor = .label
         let fontSize: CGFloat = 22
         let font = UIFont.systemFont(ofSize: fontSize)
         spinner.setTitleFont(font)
         spinner.outerColor = .systemTeal
         spinner.innerColor = .lightGray
-//        spinner.show(in: view, title: title)
         return spinner
     }
     
