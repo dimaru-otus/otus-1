@@ -142,5 +142,11 @@
     "name": "Human Torch",
     "text": "The Human Torch is a superhero appearing in American comic books published by Marvel Comics. The character is a founding member of the Fantastic Four. ",
     "wiki": "https://en.wikipedia.org/wiki/Human_Torch"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETqNJu8RFVR9AOzXyAHvQ_C3md69zJCCM2eccpv0lzVmKRjg4jm32MsQ&s=0",
+    "name": "Loki",
+    "text": "Loki Laufeyson, also known by adoption as Loki Odinson and by his title as the God of Mischief, is a character portrayed by Tom Hiddleston in the Marvel Cinematic Universe media franchise.",
+    "wiki": "https://en.wikipedia.org/wiki/Loki_(Marvel_Cinematic_Universe)"
   }
 ]

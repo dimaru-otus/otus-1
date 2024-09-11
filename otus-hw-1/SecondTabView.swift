@@ -8,20 +8,13 @@
 import SwiftUI
 
 struct SecondTabView: View {
-//    @State var path = NavigationPath()
-    
-    static var marvellHero: [MarvellHero] = {
-        let marvellHeroURL = Bundle.main.url(forResource: "MarvellHero", withExtension: "json")!
-        let data = try! Data(contentsOf: marvellHeroURL)
-        let decoder = JSONDecoder()
-        let hero = try! decoder.decode([MarvellHero].self, from: data)
-        return hero
-    }()
+    var marvellHero: [MarvellHero]
+    @Binding var path: [String]
 
     var body: some View {
-        NavigationStack {
-            List(SecondTabView.marvellHero) { hero in
-                NavigationLink(value: hero) {
+        NavigationStack(path: $path) {
+            List(marvellHero) { hero in
+                NavigationLink(value: hero.name) {
                     AsyncImage(url: hero.icon) {
                         $0.resizable()
                     } placeholder: {
@@ -30,19 +23,20 @@ struct SecondTabView: View {
                     Text(hero.name)
                 }
             }
-            .navigationTitle("Marvell heroes")
-            .navigationDestination(for: MarvellHero.self) { hero in
-                HeroDetailView(hero)
+            .navigationTitle("Marvell's Heroes")
+            .navigationDestination(for: String.self) { name in
+                if let hero = marvellHero.first(where: { $0.name == name}) {
+                    HeroDetailView(hero)
+                }
             }
-        }                
+        }
         .tag(TabList.second)
         .tabItem {
             Label(TabList.second.description, systemImage: "2.circle.fill")
         }
-
     }
 }
 
 #Preview {
-    SecondTabView()
+    SecondTabView(marvellHero: MarvellHero.loadResource(), path: .constant([]))
 }

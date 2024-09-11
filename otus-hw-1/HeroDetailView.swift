@@ -27,10 +27,5 @@ struct HeroDetailView: View {
 }
 
 #Preview {
-    HeroDetailView(MarvellHero(
-        name: "Thor",
-        text: "Thor Odinson is a superhero appearing in American comic books published by Marvel Comics. ",
-        icon: .init(string:  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1rUF0Ce47WqKPwvugGrPZ4JwDm_DCilFpzZw00fzdXFJCaSSYASyD9m0&s=0")!,
-        wiki: .init(string: "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)")!)
-    )
+    HeroDetailView(MarvellHero.loadResource().first!)
 }

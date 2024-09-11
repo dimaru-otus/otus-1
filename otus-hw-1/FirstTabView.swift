@@ -9,17 +9,29 @@ import SwiftUI
 
 struct FirstTabView: View {
     @Binding var currentTab: TabList
-//    @Binding var path: NavigationPath
+    @Binding var path: [String]
+    init(currentTab: Binding<TabList> = .constant(.first),
+         path: Binding<[String]> = .constant([])) {
+        _currentTab = currentTab
+        _path = path
+    }
     
     var body: some View {
-        VStack {
+        VStack(spacing: 20) {
             Text("FirstTabView")
             Spacer()
-            Button("The best hero: Thor") {
-                currentTab = .second
-                
+            Group {
+                Button("The hero: Thor") {
+                    currentTab = .second
+                    path = ["Thor"]
+                }
+                Button("The anti hero: Loki") {
+                    currentTab = .second
+                    path = ["Loki"]
+                }
             }
             .padding()
+            .frame(width: 180.0)
             .overlay(
                 RoundedRectangle(cornerRadius: 7)
                     .stroke(.blue, lineWidth: 1)
@@ -33,6 +45,6 @@ struct FirstTabView: View {
     }
 }
 
-//#Preview {
-//    FirstTabView(selection: Binding<TabList.first.rawValue>)
-//}
+#Preview {
+    FirstTabView()
+}
